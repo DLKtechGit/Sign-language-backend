@@ -1,0 +1,928 @@
+
+--- NEW RUN ---
+ARGV = ['C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\python_predictor.py', 'C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\uploads\\image-1763185881290-15812744.jpg']
+Image = C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763185881290-15812744.jpg
+
+--- NEW RUN ---
+ARGV = ['C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\python_predictor.py', 'C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\uploads\\image-1763186716130-351768616.jpg']
+Image = C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763186716130-351768616.jpg
+
+--- NEW RUN ---
+ARGV = ['C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\python_predictor.py', 'C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\uploads\\image-1763190187622-299872482.jpg']
+Image = C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763190187622-299872482.jpg
+
+--- NEW RUN ---
+ARGV = ['C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\python_predictor.py', 'C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\uploads\\image-1763190218660-253607049.jpg']
+Image = C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763190218660-253607049.jpg
+
+--- NEW RUN ---
+ARGV = ['C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\python_predictor.py', 'C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\uploads\\image-1763191638601-606859993.jpg']
+Image = C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763191638601-606859993.jpg
+
+--- NEW RUN ---
+ARGV = ['C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\python_predictor.py', 'C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\uploads\\image-1763191767822-623989495.jpg']
+Image = C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763191767822-623989495.jpg
+
+--- NEW RUN ---
+ARGV = ['C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\python_predictor.py', 'C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\uploads\\image-1763199087348-170079814.jpg']
+Image = C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763199087348-170079814.jpg
+
+--- NEW RUN ---
+ARGV = ['C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\python_predictor.py', 'C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\uploads\\image-1763199161617-106496014.jpg']
+Image = C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763199161617-106496014.jpg
+
+--- NEW RUN ---
+ARGV = ['C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\python_predictor.py', 'C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\uploads\\image-1763199302144-80066817.jpg']
+Image = C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763199302144-80066817.jpg
+
+--- NEW RUN ---
+ARGV = ['C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\python_predictor.py', 'C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\uploads\\image-1763199413632-70715918.jpg']
+Image = C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763199413632-70715918.jpg
+
+--- NEW RUN ---
+ARGV = ['C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\python_predictor.py', 'C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\uploads\\image-1763199546076-937597954.jpg']
+Image = C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763199546076-937597954.jpg
+
+--- NEW RUN ---
+ARGV = ['C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\python_predictor.py', 'C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\uploads\\image-1763199661529-605434178.jpg']
+Image = C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763199661529-605434178.jpg
+
+--- NEW RUN ---
+ARGV = ['C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\python_predictor.py', 'test.jpg']
+Image = test.jpg
+IMAGE NOT FOUND
+
+--- NEW RUN ---
+ARGV = ['python_predictor.py', 'test.jpg']
+Image = test.jpg
+IMAGE NOT FOUND
+
+--- NEW RUN ---
+ARGV = ['C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\python_predictor.py', 'C:\\Users\\Admin\\Downloads\\sign-language-api1\\sign-language-api\\uploads\\image-1763200074808-37722495.jpg']
+Image = C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763200074808-37722495.jpg
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763200283796-986271531.jpg
+Predicting...
+PRED: 6 (0.527992844581604)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763200310244-454265624.jpg
+Predicting...
+PRED: 6 (0.527992844581604)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763200404504-245986785.jpg
+Predicting...
+PRED: 7 (0.972588837146759)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763200479721-279717332.jpg
+Predicting...
+PRED: 6 (0.527992844581604)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763200538750-397971047.jpg
+Predicting...
+PRED: 6 (0.527992844581604)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763200566210-440622964.jpg
+Predicting...
+PRED: X (0.6043193936347961)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763201173975-579483505.jpg
+Predicting...
+PRED: 6 (0.527992844581604)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763201203028-614435676.jpg
+Predicting...
+PRED: X (0.6766000390052795)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763201330481-290573867.jpg
+Predicting...
+PRED: K (0.9257840514183044)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763201356781-599915064.jpg
+Predicting...
+PRED: 6 (0.5884699821472168)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763201566007-360896893.jpg
+Predicting...
+PRED: 6 (0.527992844581604)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763201990687-824641000.jpg
+Predicting...
+PRED: 6 (0.527992844581604)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763202030676-618074783.jpg
+Predicting...
+PRED: 7 (0.972588837146759)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763202060304-618683675.jpg
+Predicting...
+PRED: U (0.8361175656318665)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763202541386-184175037.jpg
+Predicting...
+PRED: 6 (0.527992844581604)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763210502955-387909383.jpg
+Predicting...
+PRED: 6 (0.5541110634803772)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763211049230-87452499.jpg
+Predicting...
+PRED: 6 (0.527992844581604)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763211239216-578473792.jpg
+Predicting...
+PRED: 6 (0.527992844581604)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763211365902-982489881.jpg
+Predicting...
+PRED: 6 (0.527992844581604)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763212158131-519423475.jpg
+Predicting...
+PRED: 6 (0.527992844581604)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763213763709-695061184.jpg
+Predicting...
+PRED: 6 (0.527992844581604)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763356287674-527705597.jpg
+Predicting...
+PRED: 6 (0.527992844581604)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763356690920-508566044.jpg
+Predicting...
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+PRED: K (0.8437195420265198)
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763356691424-378907131.jpg
+Predicting...
+PRED: K (0.9403209686279297)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763356697618-334520783.jpg
+Predicting...
+PRED: K (0.9753823280334473)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763356698302-588516478.jpg
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763356697986-792038798.jpg
+Predicting...
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763356698670-566660381.jpg
+Predicting...
+PRED: K (0.9515275359153748)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763356698987-790527916.jpg
+Predicting...
+PRED: K (0.952268660068512)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763356704084-700584997.jpg
+Predicting...
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763356704409-234948190.jpg
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Predicting...
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763356705018-822140500.jpg
+PRED: K (0.9435656070709229)
+Predicting...
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763356755020-358342889.jpg
+Predicting...
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763356755332-49956026.jpg
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Predicting...
+PRED: K (0.9329375624656677)
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763356755992-929759762.jpg
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763356755661-805850935.jpg
+PRED: K (0.9310559034347534)
+Predicting...
+Predicting...
+PRED: K (0.9178804159164429)
+PRED: K (0.9291743040084839)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763356757377-528567511.jpg
+Predicting...
+PRED: K (0.9335468411445618)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357006137-569869276.jpg
+Predicting...
+PRED: K (0.9167713522911072)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357006890-668862193.jpg
+Predicting...
+PRED: K (0.9164925813674927)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357007667-941418623.jpg
+Predicting...
+PRED: K (0.9163224697113037)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357009075-556082705.jpg
+Predicting...
+PRED: K (0.9161359667778015)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357011066-402754914.jpg
+Predicting...
+PRED: W (0.48034942150115967)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357012136-527100734.jpg
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Predicting...
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357013704-701129880.jpg
+PRED: K (0.6906993389129639)
+Predicting...
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357012892-550480536.jpg
+Predicting...
+PRED: W (0.5560200810432434)
+PRED: W (0.4614287316799164)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357015077-154726397.jpg
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Predicting...
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357017069-46660855.jpg
+Predicting...
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357018142-729001950.jpg
+PRED: K (0.8253107070922852)
+Predicting...
+PRED: K (0.6197490096092224)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+PRED: K (0.5889688730239868)
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357019712-62988988.jpg
+Predicting...
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357181185-875274266.jpg
+Predicting...
+PRED: K (0.8934217095375061)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357182419-65359339.jpg
+Predicting...
+PRED: K (0.8726808428764343)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357184403-727048193.jpg
+Predicting...
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357185790-626779363.jpg
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Predicting...
+PRED: W (0.4875633716583252)
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357185039-479111530.jpg
+PRED: W (0.5385720133781433)
+Predicting...
+PRED: W (0.5625905990600586)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357187048-86539126.jpg
+Predicting...
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357188405-842291758.jpg
+Predicting...
+PRED: W (0.5548713803291321)
+PRED: W (0.7153595685958862)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357190138-962182071.jpg
+Predicting...
+PRED: K (0.887387216091156)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357633793-404473217.jpg
+Predicting...
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763357634366-18045887.jpg
+Predicting...
+PRED: K (0.9425679445266724)
+PRED: K (0.94078129529953)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361021592-148116817.jpg
+Predicting...
+PRED: W (0.8621367812156677)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361300397-781472039.jpg
+Predicting...
+PRED: K (0.9360721707344055)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361301325-18387188.jpg
+Predicting...
+PRED: K (0.9171950221061707)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361302090-696024119.jpg
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361315619-714191950.jpg
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361626106-874610525.jpg
+Predicting...
+PRED: K (0.7144155502319336)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361629152-622103636.jpg
+Predicting...
+PRED: K (0.45532771944999695)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361632057-524971935.jpg
+Predicting...
+PRED: K (0.9506500959396362)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361635101-396376668.jpg
+Predicting...
+PRED: K (0.8196527361869812)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361638053-97962257.jpg
+Predicting...
+PRED: K (0.8885946273803711)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361640951-301160001.jpg
+Predicting...
+PRED: K (0.8865282535552979)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361644013-934816209.jpg
+Predicting...
+PRED: K (0.8921940326690674)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361646858-859724461.jpg
+Predicting...
+PRED: K (0.8984620571136475)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361649906-611368738.jpg
+Predicting...
+PRED: K (0.9181897044181824)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361652954-177241973.jpg
+Predicting...
+PRED: K (0.9395925402641296)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361663316-272421181.jpg
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361663309-506795418.jpg
+Predicting...
+Predicting...
+PRED: W (0.739088773727417)
+PRED: K (0.43745356798171997)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361665454-836647638.jpg
+Predicting...
+PRED: W (0.6947336792945862)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361668473-802165076.jpg
+Predicting...
+PRED: W (0.4737160801887512)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361671527-214960477.jpg
+Predicting...
+PRED: W (0.5604795813560486)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361674550-832312129.jpg
+Predicting...
+PRED: W (0.47212153673171997)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361677548-684393799.jpg
+Predicting...
+PRED: W (0.5336229801177979)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361845324-944150632.jpg
+Predicting...
+PRED: W (0.3726809620857239)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361848521-421629692.jpg
+Predicting...
+PRED: W (0.6137047410011292)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361851781-399627922.jpg
+Predicting...
+PRED: W (0.5304294228553772)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361855036-472846086.jpg
+Predicting...
+PRED: W (0.5385578870773315)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361858020-529044699.jpg
+Predicting...
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+PRED: W (0.5793890357017517)
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361860884-201877094.jpg
+Predicting...
+PRED: W (0.6485371589660645)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763361863732-237627450.jpg
+Predicting...
+PRED: W (0.6686268448829651)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763363922909-521090729.jpg
+Predicting...
+PRED: K (0.9056918025016785)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763363961192-954604263.jpg
+Predicting...
+PRED: K (0.9120989441871643)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763363986986-914783550.jpg
+Predicting...
+PRED: K (0.8859089612960815)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763363999556-996978626.jpg
+Predicting...
+PRED: K (0.4199943244457245)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364021765-23954400.jpg
+Predicting...
+PRED: K (0.9048929214477539)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364063265-352063374.jpg
+Predicting...
+PRED: W (0.7176023125648499)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364082262-206142355.jpg
+Predicting...
+PRED: K (0.9099857211112976)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364129717-246658721.jpg
+Predicting...
+PRED: K (0.922682523727417)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364203625-886272539.jpg
+Predicting...
+PRED: K (0.9009789824485779)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364224348-260383323.jpg
+Predicting...
+PRED: K (0.9092017412185669)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364236211-228370500.jpg
+Predicting...
+PRED: K (0.4943433403968811)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364263437-275084167.jpg
+Predicting...
+PRED: W (0.46704810857772827)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364287537-276958851.jpg
+Predicting...
+PRED: W (0.791229248046875)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364322300-143140571.jpg
+Predicting...
+PRED: T (0.6914368867874146)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364348968-19991565.jpg
+Predicting...
+PRED: K (0.5754112005233765)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364372461-116058616.jpg
+Predicting...
+PRED: K (0.8197195529937744)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364404981-416293674.jpg
+Predicting...
+PRED: K (0.6688085794448853)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364436879-984123057.jpg
+Predicting...
+PRED: K (0.6848787665367126)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364460235-295488221.jpg
+Predicting...
+PRED: K (0.8725812435150146)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364498196-243085331.jpg
+Predicting...
+PRED: W (0.7126187682151794)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364509823-701710674.jpg
+Predicting...
+PRED: K (0.867843747138977)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364679637-436748252.jpg
+Predicting...
+PRED: K (0.9388343691825867)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364699457-778336418.jpg
+Predicting...
+PRED: W (0.6259690523147583)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364720177-877644572.jpg
+Predicting...
+PRED: K (0.7118023633956909)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364731427-231515421.jpg
+Predicting...
+PRED: W (0.7908560037612915)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763364772936-695171763.jpg
+Predicting...
+PRED: K (0.93641597032547)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763367622646-262337898.jpg
+Predicting...
+PRED: K (0.8019291758537292)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763367642354-44839618.jpg
+Predicting...
+PRED: K (0.6299882531166077)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763367713859-267472392.jpg
+Predicting...
+PRED: W (0.5420862436294556)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763367734503-896951397.jpg
+Predicting...
+PRED: K (0.7029937505722046)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763367775805-582746530.jpg
+Predicting...
+PRED: K (0.6568137407302856)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763367803476-557689904.jpg
+Predicting...
+PRED: K (0.7701426148414612)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763367884227-842916464.jpg
+Predicting...
+PRED: X (0.4054340720176697)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763367958785-533822992.jpg
+Predicting...
+PRED: W (0.8127109408378601)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763368086171-110321553.jpg
+Predicting...
+PRED: K (0.7575827836990356)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763368679829-716599362.jpg
+Predicting...
+PRED: K (0.9240028858184814)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763368706956-666142703.jpg
+Predicting...
+PRED: K (0.694916307926178)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763368727792-307429233.jpg
+Predicting...
+PRED: W (0.9377680420875549)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763368747416-545565299.jpg
+Predicting...
+PRED: W (0.8413088321685791)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763368771238-838139424.jpg
+Predicting...
+PRED: K (0.7124581336975098)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763368801365-762727573.jpg
+Predicting...
+PRED: W (0.8166155219078064)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763368843104-666463226.jpg
+Predicting...
+PRED: K (0.6084614992141724)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763368868064-480856666.jpg
+Predicting...
+PRED: W (0.47414690256118774)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763368896493-127132528.jpg
+Predicting...
+PRED: W (0.830464780330658)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763368966106-982329920.jpg
+Predicting...
+PRED: K (0.8632360696792603)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763369058858-918702744.jpg
+Predicting...
+PRED: K (0.525076150894165)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763369083636-770836929.jpg
+Predicting...
+PRED: W (0.8796917796134949)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763369105759-612513149.jpg
+Predicting...
+PRED: K (0.9137986898422241)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763369172950-794115493.jpg
+Predicting...
+PRED: K (0.8440255522727966)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763369199609-523012855.jpg
+Predicting...
+PRED: K (0.9256001710891724)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763369220296-456904319.jpg
+Predicting...
+PRED: K (0.9445843696594238)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763370317034-912816178.jpg
+Predicting...
+PRED: K (0.9026890397071838)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763370748013-364027914.jpg
+Predicting...
+PRED: K (0.6368659734725952)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763370751137-332350368.jpg
+Predicting...
+PRED: K (0.804436445236206)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763370755484-188767102.jpg
+Predicting...
+PRED: K (0.8493379950523376)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763370777914-467013845.jpg
+Predicting...
+PRED: W (0.5713728666305542)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763370779759-894597964.jpg
+Predicting...
+PRED: W (0.5214332342147827)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763370783702-121128387.jpg
+Predicting...
+PRED: K (0.4960404932498932)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763370787207-745374473.jpg
+Predicting...
+PRED: K (0.6584799885749817)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763370791025-142896118.jpg
+Predicting...
+PRED: K (0.6905133128166199)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763370794778-486645925.jpg
+Predicting...
+PRED: K (0.9068446755409241)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763370983304-589573837.jpg
+Predicting...
+PRED: W (0.6383646130561829)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763371008222-693470044.jpg
+Predicting...
+PRED: K (0.9218231439590454)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763371088577-701753963.jpg
+Predicting...
+PRED: K (0.7050803899765015)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763371111506-246603178.jpg
+Predicting...
+PRED: K (0.9068028330802917)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763371139690-230016793.jpg
+Predicting...
+PRED: K (0.47532370686531067)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763372472987-589671856.jpg
+Predicting...
+PRED: W (0.37453657388687134)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763372496366-34039051.jpg
+Predicting...
+PRED: W (0.37453657388687134)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763372736325-283741693.jpg
+Predicting...
+PRED: K (0.7865154147148132)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763372757574-417126795.jpg
+Predicting...
+PRED: K (0.7560462355613708)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763372810223-215296159.jpg
+Predicting...
+PRED: K (0.7522687911987305)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763373203772-730790603.jpg
+Predicting...
+PRED: W (0.3431088626384735)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763373339913-470127458.jpg
+Predicting...
+PRED: K (0.5987504124641418)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763373397111-494653909.jpg
+Predicting...
+PRED: K (0.6988776326179504)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763373420958-549035018.jpg
+Predicting...
+PRED: K (0.6425517797470093)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763373440669-906815064.jpg
+Predicting...
+PRED: K (0.7188733816146851)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763373484328-316351915.jpg
+Predicting...
+PRED: K (0.9104419350624084)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763373616429-41141235.jpg
+Predicting...
+PRED: K (0.7786638736724854)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763373652880-337878590.jpg
+Predicting...
+PRED: K (0.7748842835426331)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763373714738-333683853.jpg
+Predicting...
+PRED: W (0.6894459128379822)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763373744203-280146154.jpg
+Predicting...
+PRED: W (0.5678489804267883)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763373779086-665296521.jpg
+Predicting...
+PRED: K (0.8082773685455322)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763374028097-405303185.jpg
+Predicting...
+PRED: K (0.5711071491241455)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763374052130-461858479.jpg
+Predicting...
+PRED: K (0.7701370120048523)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763374341088-80435279.jpg
+Predicting...
+PRED: K (0.8677007555961609)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763374451504-957412552.jpg
+Predicting...
+PRED: K (0.7265519499778748)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763375745976-111409634.jpg
+Predicting...
+PRED: X (0.28956031799316406)
