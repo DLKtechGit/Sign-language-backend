@@ -926,3 +926,138 @@ Model loaded OK
 Preprocessing image: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763375745976-111409634.jpg
 Predicting...
 PRED: X (0.28956031799316406)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image with hand extraction: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763383334431-225390401.jpg
+Extracting hand with black background...
+Hand extracted: 2051x2304
+Predicting...
+PRED: D (0.9860115051269531)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image with hand extraction: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763383362011-33143721.jpg
+Extracting hand with black background...
+Hand extracted: 2448x3264
+Predicting...
+PRED: 0 (0.9564799070358276)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image with hand extraction: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763383389535-977814292.jpg
+Extracting hand with black background...
+Hand extracted: 1779x1389
+Predicting...
+PRED: 0 (0.3421725034713745)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image with hand extraction: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763383430340-33050892.jpg
+Extracting hand with black background...
+Hand extracted: 1683x1878
+Predicting...
+PRED: D (0.4469102919101715)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image with hand extraction: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763383497589-772733834.jpg
+Extracting hand with black background...
+Hand extracted: 1480x1841
+Predicting...
+PRED: F (0.7348508238792419)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image with hand extraction: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763383552425-930642741.jpg
+Extracting hand with black background...
+Hand extracted: 1634x2088
+Predicting...
+PRED: T (0.40249213576316833)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image with hand extraction: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763383647195-940064175.jpg
+Extracting hand with black background...
+Hand extracted: 1465x1491
+Predicting...
+PRED: 3 (0.4004595875740051)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image with hand extraction: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763383698999-546814154.jpg
+Extracting hand with black background...
+Hand extracted: 906x2742
+Predicting...
+PRED: M (0.9655489325523376)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image with hand extraction: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763383725463-669323660.jpg
+Extracting hand with black background...
+Hand extracted: 809x2650
+Predicting...
+PRED: M (0.32651302218437195)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image with hand extraction: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763383764033-129304767.jpg
+Extracting hand with black background...
+Hand extracted: 952x2682
+Predicting...
+PRED: M (0.8979669809341431)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image with hand extraction: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763383796257-252930259.jpg
+Extracting hand with black background...
+Hand extracted: 661x2308
+Predicting...
+PRED: M (0.7842663526535034)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image with hand extraction: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763383832100-818186008.jpg
+Extracting hand with black background...
+Hand extracted: 458x2721
+Predicting...
+PRED: M (0.9380322694778442)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image with hand extraction: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763384042797-432314753.jpg
+Extracting hand with black background...
+Hand extracted: 1150x198
+Predicting...
+PRED: X (0.5993624329566956)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image with hand extraction: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763384089690-213508908.jpg
+Extracting hand with black background...
+Hand extracted: 1149x422
+Predicting...
+PRED: 0 (0.94721519947052)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image with hand extraction: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763384124113-814940874.jpg
+Extracting hand with black background...
+Hand extracted: 1414x2807
+Predicting...
+PRED: D (0.6726751327514648)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image with hand extraction: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763384204399-293339929.jpg
+Extracting hand with black background...
+Hand extracted: 939x269
+Predicting...
+PRED: 0 (0.7584334015846252)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image with hand extraction: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763384247083-915224367.jpg
+Extracting hand with black background...
+Hand extracted: 981x271
+Predicting...
+PRED: 0 (0.9984513521194458)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image with hand extraction: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763384409293-478211550.jpg
+Extracting hand with black background...
+Hand extracted: 1508x2970
+Processed image saved: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\processed\hand_1763384409_image-1763384409293-478211550.jpg
+Predicting...
+PRED: M (0.6565605998039246)
+Loading CLEAN model: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\25-737\asl_cnn_clean.h5
+Model loaded OK
+Preprocessing image with hand extraction: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\uploads\image-1763384608709-794903464.jpg
+Extracting hand with black background...
+Hand extracted: 1509x1505
+Processed image saved: C:\Users\Admin\Downloads\sign-language-api1\sign-language-api\processed\hand_1763384608_image-1763384608709-794903464.jpg
+Predicting...
+PRED: Z (0.8063938617706299)
